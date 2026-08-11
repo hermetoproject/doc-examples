@@ -1,5 +1,5 @@
 {
-  "name": "yarn-basic-example",
+  "name": "yarn-example",
   "packageManager": "yarn@3.6.2",
   "version": "1.0.0",
   "description": "A sample NodeJS app",
